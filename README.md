@@ -77,5 +77,5 @@ Este proyecto está bajo la Licencia (jesemunoz.com) - mira el archivo [LICENSE.
 * Gracias a ALURA 📢
 
 ---
-⌨️ con ❤️ por [jese](https://github.com/jesemunoz) 😊
+⌨️ Con ❤️ por [jese](https://github.com/jesemunoz) 😊
 
